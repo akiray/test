@@ -1,0 +1,4 @@
+あいうえお
+かきくけこ
+abcde
+public void xxxx
